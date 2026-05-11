@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#07111F"/>
+  <rect x="32" y="32" width="1136" height="696" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="92" y="96" width="1016" height="94" rx="24" fill="#0A1627"/>
+  <rect x="92" y="226" width="310" height="176" rx="24" fill="#12324B"/>
+  <rect x="446" y="226" width="310" height="176" rx="24" fill="#0A1627"/>
+  <rect x="800" y="226" width="308" height="176" rx="24" fill="#0A1627"/>
+  <rect x="92" y="438" width="1016" height="220" rx="28" fill="#0A1627"/>
+  <text x="92" y="154" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">Subscription Dashboard</text>
+  <text x="92" y="192" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Plan visibility and renewal summary</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="84" y1="70" x2="1112" y2="694" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B31"/>
+      <stop offset="1" stop-color="#102C4C"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#07111F"/>
+  <rect x="32" y="32" width="1136" height="696" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="88" y="96" width="1024" height="96" rx="24" fill="#0A1627"/>
+  <rect x="88" y="224" width="320" height="180" rx="24" fill="#12324B"/>
+  <rect x="440" y="224" width="320" height="180" rx="24" fill="#0A1627"/>
+  <rect x="792" y="224" width="320" height="180" rx="24" fill="#0A1627"/>
+  <rect x="88" y="440" width="1024" height="220" rx="28" fill="#0A1627"/>
+  <text x="88" y="156" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">Attendance Overview</text>
+  <text x="88" y="194" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Monitoring attendance metrics and reports</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="76" y1="64" x2="1110" y2="694" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B31"/>
+      <stop offset="1" stop-color="#102C4C"/>
+    </linearGradient>
+  </defs>
+</svg>

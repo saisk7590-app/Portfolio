@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#07111F"/>
+  <rect x="32" y="32" width="1136" height="696" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="88" y="96" width="1024" height="92" rx="24" fill="#0A1627"/>
+  <rect x="88" y="222" width="490" height="202" rx="28" fill="#12324B"/>
+  <rect x="622" y="222" width="490" height="202" rx="28" fill="#0A1627"/>
+  <rect x="88" y="458" width="1024" height="206" rx="28" fill="#0A1627"/>
+  <polyline points="140,610 260,560 380,590 500,520 620,548 740,470 860,506 980,430" stroke="#38BDF8" stroke-width="10" fill="none"/>
+  <text x="88" y="152" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">Analytics Overview</text>
+  <text x="88" y="188" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Request trends and operations signals</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="70" y1="70" x2="1110" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B31"/>
+      <stop offset="1" stop-color="#134E4A"/>
+    </linearGradient>
+  </defs>
+</svg>

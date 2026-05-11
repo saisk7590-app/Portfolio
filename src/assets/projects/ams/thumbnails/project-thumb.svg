@@ -1,0 +1,18 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#07111F"/>
+  <rect x="32" y="32" width="1136" height="696" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="84" y="96" width="220" height="560" rx="28" fill="#0A1627"/>
+  <rect x="336" y="96" width="780" height="88" rx="24" fill="#0A1627"/>
+  <rect x="336" y="216" width="240" height="168" rx="24" fill="#1D4ED8" fill-opacity="0.28"/>
+  <rect x="604" y="216" width="240" height="168" rx="24" fill="#12324B"/>
+  <rect x="872" y="216" width="244" height="168" rx="24" fill="#0A1627"/>
+  <rect x="336" y="416" width="780" height="240" rx="28" fill="#0A1627"/>
+  <text x="336" y="150" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">AMS Dashboard Preview</text>
+  <text x="336" y="188" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Attendance · faculty panel · academic reporting</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="72" y1="62" x2="1112" y2="698" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B31"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+  </defs>
+</svg>

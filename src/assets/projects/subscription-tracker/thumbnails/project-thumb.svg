@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#07111F"/>
+  <rect x="32" y="32" width="1136" height="696" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="96" y="96" width="1008" height="94" rx="24" fill="#0A1627"/>
+  <rect x="96" y="226" width="320" height="180" rx="24" fill="#12324B"/>
+  <rect x="440" y="226" width="320" height="180" rx="24" fill="#0A1627"/>
+  <rect x="784" y="226" width="320" height="180" rx="24" fill="#0A1627"/>
+  <rect x="96" y="442" width="1008" height="214" rx="28" fill="#0A1627"/>
+  <text x="96" y="154" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">Subscription Tracker Preview</text>
+  <text x="96" y="192" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Renewals · reminders · visibility</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="84" y1="68" x2="1114" y2="694" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B31"/>
+      <stop offset="1" stop-color="#12324B"/>
+    </linearGradient>
+  </defs>
+</svg>

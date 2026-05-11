@@ -1,0 +1,18 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#07111F"/>
+  <rect x="32" y="32" width="1136" height="696" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="80" y="96" width="220" height="568" rx="28" fill="#0A1627"/>
+  <rect x="336" y="96" width="748" height="86" rx="24" fill="#0A1627"/>
+  <rect x="336" y="214" width="228" height="160" rx="24" fill="#12324B"/>
+  <rect x="592" y="214" width="228" height="160" rx="24" fill="#0A1627"/>
+  <rect x="848" y="214" width="236" height="160" rx="24" fill="#0A1627"/>
+  <rect x="336" y="406" width="748" height="258" rx="28" fill="#0A1627"/>
+  <text x="336" y="150" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">Admin Dashboard</text>
+  <text x="336" y="186" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Operations visibility and request management</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="80" y1="60" x2="1120" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B31"/>
+      <stop offset="1" stop-color="#102C4C"/>
+    </linearGradient>
+  </defs>
+</svg>

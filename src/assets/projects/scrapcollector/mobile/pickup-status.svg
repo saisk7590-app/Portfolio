@@ -1,0 +1,20 @@
+<svg width="540" height="1080" viewBox="0 0 540 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="1080" rx="48" fill="#07111F"/>
+  <rect x="38" y="40" width="464" height="1000" rx="40" fill="url(#paint0_linear)"/>
+  <rect x="82" y="98" width="376" height="72" rx="22" fill="#0A1627"/>
+  <rect x="82" y="210" width="376" height="190" rx="28" fill="#0A1627"/>
+  <rect x="112" y="246" width="316" height="18" rx="9" fill="#38BDF8"/>
+  <rect x="112" y="302" width="260" height="12" rx="6" fill="#94A3B8"/>
+  <rect x="82" y="440" width="376" height="420" rx="28" fill="#12324B"/>
+  <rect x="112" y="498" width="32" height="32" rx="16" fill="#2DD4BF"/>
+  <rect x="112" y="604" width="32" height="32" rx="16" fill="#2DD4BF"/>
+  <rect x="112" y="710" width="32" height="32" rx="16" fill="#2DD4BF"/>
+  <text x="82" y="146" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="24" font-weight="700">Pickup Status</text>
+  <text x="82" y="182" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16">Track request progress</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="64" y1="64" x2="460" y2="1010" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F2237"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+</svg>
