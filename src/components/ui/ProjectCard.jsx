@@ -9,8 +9,8 @@ function ProjectCard({ project, featured = false, delay = 0 }) {
   const hasMobile = project.screens?.mobile?.length > 0
   const mobileScreen = project.screens?.mobile?.[0]
 
-  return (
-    <>
+  return ( 
+    <> 
       <Reveal delay={delay} className="h-full">
         <article className="glass-panel h-full overflow-hidden transition duration-300 hover:-translate-y-1 hover:border-cyan-400/25">
           <div className="relative overflow-hidden">
