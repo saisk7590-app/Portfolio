@@ -7,6 +7,7 @@ function PhoneMockup({
   subtitle,
   size = 'md',
   className = '',
+  children,
 }) {
   // Size presets
   const sizeClasses = {
@@ -49,12 +50,16 @@ function PhoneMockup({
 
         {/* Mobile App Screen Content */}
         <div className="relative aspect-[9/18] w-full overflow-hidden bg-slate-900">
-          <img
-            src={src}
-            alt={alt}
-            className="h-full w-full object-cover select-none"
-            loading="lazy"
-          />
+          {children ? (
+            children
+          ) : (
+            <img
+              src={src}
+              alt={alt}
+              className="h-full w-full object-cover select-none"
+              loading="lazy"
+            />
+          )}
         </div>
 
         {/* Bottom iOS Home Indicator Bar */}
